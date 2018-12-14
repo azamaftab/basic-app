@@ -1,0 +1,24 @@
+.ingredientControl
+{
+    text-align: center;
+    display: flex;
+    width: 100%;
+}
+.ingLable
+{
+    float:left;
+    width: 45%;
+    margin-top: 7px;
+    margin-right: 20px;
+    text-align: right;
+}
+.ingBtn
+{
+    text-align: left;
+    margin: 0px 5px 0px 5px;
+    width: 60px;
+}
+.btnMain{
+    float:left;
+    text-align: left
+}
